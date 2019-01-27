@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/pjt/cli/cmd"
+import "./cmd"
 
 var VERSION string = "0.0.1"
 
